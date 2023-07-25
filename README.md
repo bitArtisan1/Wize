@@ -4,9 +4,10 @@ Wize, a C++ UCI-compliant chess engine, integrates a neural network (NNUE) for a
 
 
 <p align="center">
-(https://github.com/yanpuri/Wize/assets/121260820/4827b825-3677-47f1-b698-62ffa4367b09)
-<em><strong>Wize, Strong and Open Source Chess Engine Written in C++</strong></em>
+  <img src="https://github.com/yanpuri/Wize/raw/main/assets/121260820/4827b825-3677-47f1-b698-62ffa4367b09.png" alt="Wize Chess Engine">
+  <em><strong>Wize, Strong and Open Source Chess Engine Written in C++</strong></em>
 </p>
+
 
 ## Features
 * Architecture
