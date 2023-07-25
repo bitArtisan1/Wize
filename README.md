@@ -1,5 +1,4 @@
 # Wize
-Wize UCI Chess Engine with Multithreading and NNUE Stockfish Evaluation
 Wize, a C++ UCI-compliant chess engine, integrates a neural network (NNUE) for accurate evaluation and employs a range of advanced search techniques like LazySMP and Multithreading within Alpha-Beta framework, Wize strives to be a top-tier engine but also serves as a valuable resource for developers to enhance their own chess engines.
 
 <p align="center">
