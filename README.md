@@ -30,7 +30,8 @@ Wize, a C++ UCI-compliant chess engine, integrates a neural network (NNUE) for a
   * Polyglot Opening Book
   
 * Evaluation
-  * NNUE Evaluation (Features=HalfKP(Friend)[41024->256x2],Network=AffineTransform[1<-32](ClippedReLU[32](AffineTransform[32<-32](ClippedReLU[32](AffineTransform[32<-512](InputSlice[512(0:512)]))))))
+  * NNUE Evaluation (Features=HalfKP(Friend)[41024->256x2],Network=AffineTransform
+  * [1<-32](ClippedReLU[32](AffineTransform[32<-32](ClippedReLU[32](AffineTransform[32<-512](InputSlice[512(0:512)]))))))
 
 ## Improvements
   * Implement Syzygy Bases, SyzygyPath, ...
