@@ -2,7 +2,7 @@
 Wize UCI Chess Engine with Multithreading and NNUE Stockfish Evaluation
 Wize, a C++ UCI-compliant chess engine, integrates a neural network (NNUE) for accurate evaluation and employs a range of advanced search techniques like LazySMP and Multithreading within Alpha-Beta framework, Wize strives to be a top-tier engine but also serves as a valuable resource for developers to enhance their own chess engines.
 
-![Wize, Strong and Open Source C++ Chess Engine]()
+![Wize, Strong and Open Source C++ Chess Engine](https://github.com/yanpuri/Wize/assets/121260820/12f429be-9c9d-40ae-b87c-80f546f36072)
                          
 <p align="center">
 <em><strong>Wize, Strong and Open Source Chess Engine Written in C++</strong></em>
@@ -47,12 +47,13 @@ Wize, a C++ UCI-compliant chess engine, integrates a neural network (NNUE) for a
  Clone the repository:
 
 ```bash
-$ git clone 
+$ git clone https://github.com/yanpuri/Wize.git
 ```
 Then, in the directory:
 ```bash
-$ cd Wize
+$ cd Wize\Wize
 $ make
+$ Wize.exe
 ```
 Run the generated .exe file in the install dir.
  
@@ -64,15 +65,14 @@ The UCI (Universal Chess Interface) serves as a widely adopted protocol for inte
 * [BluefeverSoftware](https://www.youtube.com/@BlueFeverSoft), YouTube series about Vice engine.
 * [CodeMonkeyKing](https://www.youtube.com/@chessprogramming591), General chess programming videos.
 * Vice Programming Discord
-* And of course, [ChessProgrammingWik](https://www.chessprogramming.org/Main_Page).
+* [ChessProgrammingWik](https://www.chessprogramming.org/Main_Page).
 
-## Images
 ### Terminal interface
-![Terminal interface]()
+![Terminal interface](https://github.com/yanpuri/Wize/assets/121260820/d01f0f5c-561e-4014-b1aa-fe122a7e0abe)
 )
 
 ### Gameboard
-![Gameboard]()
+![Gameboard](https://github.com/yanpuri/Wize/assets/121260820/0f71bdf5-ff01-4370-a158-a5095b6bb38d)
 )
 
 
