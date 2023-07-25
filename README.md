@@ -36,7 +36,7 @@ Wize, a C++ UCI-compliant chess engine, integrates a neural network (NNUE) for a
   * Implement Syzygy Bases, SyzygyPath, ...
   * Improve the NN Structure
 ## Current ELO
-  * **ELO: 3000~** 
+  * **ELO: 2850-3000~** 
 
  ## Requirements
  * Wize software requires GCC(GNU Compiler Collection) or CLang, C++ version: CXX >= C++17 !
