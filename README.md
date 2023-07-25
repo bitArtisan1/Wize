@@ -69,11 +69,10 @@ The UCI (Universal Chess Interface) serves as a widely adopted protocol for inte
 
 ### Terminal interface
 ![Terminal interface](https://github.com/yanpuri/Wize/assets/121260820/d01f0f5c-561e-4014-b1aa-fe122a7e0abe)
-)
 
 ### Gameboard
 ![Gameboard](https://github.com/yanpuri/Wize/assets/121260820/0f71bdf5-ff01-4370-a158-a5095b6bb38d)
-)
+
 
 
 
