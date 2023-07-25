@@ -11,7 +11,6 @@ Wize, a C++ UCI-compliant chess engine, integrates a neural network (NNUE) for a
 * Architecture
   * Bitboard Representation
 
-
 * Search 
   * Alpha-Beta Pruning
   * Negamax Framework
@@ -30,8 +29,7 @@ Wize, a C++ UCI-compliant chess engine, integrates a neural network (NNUE) for a
   * Polyglot Opening Book
   
 * Evaluation
-  * NNUE Evaluation (Features=HalfKP(Friend)[41024->256x2],Network=AffineTransform
-  * [1<-32](ClippedReLU[32](AffineTransform[32<-32](ClippedReLU[32](AffineTransform[32<-512](InputSlice[512(0:512)]))))))
+  * `NNUE Evaluation (Features=HalfKP(Friend)[41024->256x2],Network=AffineTransform[1<-32](ClippedReLU[32](AffineTransform[32<-32](ClippedReLU[32](AffineTransform[32<-512](InputSlice[512(0:512)]))))))`
 
 ## Improvements
   * Implement Syzygy Bases, SyzygyPath, ...
@@ -61,18 +59,17 @@ Run the generated .exe file in the install dir.
 * How to work the engine?
 The UCI (Universal Chess Interface) serves as a widely adopted protocol for interacting with a chess engine and is the preferred method for communication in graphical user interfaces (GUIs) and chess-related tools. The guidelines are outlined in the UCI protocol, which can be accessed and referenced at this link http://page.mi.fu-berlin.de/block/uci.htm
 
+### Terminal interface
+![Terminal interface](https://github.com/yanpuri/Wize/assets/121260820/d01f0f5c-561e-4014-b1aa-fe122a7e0abe)
+
+### Gameboard
+![Gameboard](https://github.com/yanpuri/Wize/assets/121260820/0f71bdf5-ff01-4370-a158-a5095b6bb38d)
 
 ## Acknowledgements
 * [BluefeverSoftware](https://www.youtube.com/@BlueFeverSoft), YouTube series about Vice engine.
 * [CodeMonkeyKing](https://www.youtube.com/@chessprogramming591), General chess programming videos.
 * Vice Programming Discord
 * [ChessProgrammingWik](https://www.chessprogramming.org/Main_Page).
-
-### Terminal interface
-![Terminal interface](https://github.com/yanpuri/Wize/assets/121260820/d01f0f5c-561e-4014-b1aa-fe122a7e0abe)
-
-### Gameboard
-![Gameboard](https://github.com/yanpuri/Wize/assets/121260820/0f71bdf5-ff01-4370-a158-a5095b6bb38d)
 
 ## Support Me
 If you liked this, please consider leaving a star ⭐
