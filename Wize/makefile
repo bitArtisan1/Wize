@@ -1,5 +1,5 @@
-/*                   GNU GENERAL PUBLIC LICENSE
-                       Version 3, 29 June 2007
+/*GNU GENERAL PUBLIC LICENSE
+ Version 3, 29 June 2007
 
  Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
  Everyone is permitted to copy and distribute verbatim copies
@@ -66,8 +66,7 @@ make it effectively proprietary.  To prevent this, the GPL assures that
 patents cannot be used to render the program non-free.
 
   The precise terms and conditions for copying, distribution and
-modification follow.
-*/
+modification follow. */
 # Compiler and flags
 CXX := g++
 CXXFLAGS := -Ofast -pthread -DUSE_SSE41 -msse4.1 -DUSE_SSSE3 -mssse3 -DUSE_SSE2 -msse2 -DUSE_SSE -msse
