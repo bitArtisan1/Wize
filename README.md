@@ -70,7 +70,7 @@ The UCI (Universal Chess Interface) serves as a widely adopted protocol for inte
 * [BluefeverSoftware](https://www.youtube.com/@BlueFeverSoft), YouTube series about Vice engine.
 * [CodeMonkeyKing](https://www.youtube.com/@chessprogramming591), General chess programming videos.
 * Vice Programming Discord
-* [ChessProgrammingWik](https://www.chessprogramming.org/Main_Page).
+* [ChessProgrammingWiki](https://www.chessprogramming.org/Main_Page).
 
 ## Support Me
 If you liked this, please consider leaving a star ⭐
